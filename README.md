@@ -5,13 +5,9 @@
   <br />
   <a href="https://caido.io/">Website</a>
   <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
-  <a href="https://dashboard.caido.io/">Dashboard</a>
+  <a href="https://developer.caido.io/" target="_blank">Documentation</a>
   <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
-  <a href="https://docs.caido.io/" target="_blank">Docs</a>
-  <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
-  <a href="https://links.caido.io/roadmap">Roadmap</a>
-  <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
-  <a href="https://github.com/caido/caido/tree/main/brand">Branding</a>
+  <a href="https://links.caido.io/ideas">Project</a>
   <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
   <a href="https://links.caido.io/www-discord" target="_blank">Discord</a>
   <br />
